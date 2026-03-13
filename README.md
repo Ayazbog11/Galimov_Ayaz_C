@@ -1,2 +1,4 @@
 # Galimov_Ayaz_C
-to homeworc c ferst cours
+to homework/lab programming c 
+ferst cours
+
