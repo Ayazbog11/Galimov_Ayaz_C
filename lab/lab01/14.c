@@ -2,7 +2,6 @@
 
 int main() {
     int a, b, c;
-
     printf("Адрес a: %p\n", (void*)&a);
     printf("Адрес b: %p\n", (void*)&b);
     printf("Адрес c: %p\n", (void*)&c);
