@@ -17,8 +17,9 @@
   <a href="https://github.com/Ayazbog11/Galimov_Ayaz_C/pulls">
     <img src="https://img.shields.io/github/issues-pr/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=github&color=yellow"/>
   </a>
-    <img src="https://img.shields.io/github/repo-size/Ayazbog11/Galimov_Ayaz_C?style=flat-square&color=informational&label=Размер"/>
-    <img src="https://img.shields.io/github/languages/code-size/Ayazbog11/Galimov_Ayaz_C?style=flat-square&color=blue&label=Объем%20кода"/>
+    <a href="https://github.com/Ayazbog11/Galimov_Ayaz_C">
+    <img src="https://img.shields.io/github/repo-size/Ayazbog11/Galimov_Ayaz_C?style=flat-square&color=orange&label=Размер%20репо"/>
+  </a>
 </p>
 
 </div>
