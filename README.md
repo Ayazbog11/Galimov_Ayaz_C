@@ -17,12 +17,14 @@
   <a href="https://github.com/Ayazbog11/Galimov_Ayaz_C/pulls">
     <img src="https://img.shields.io/github/issues-pr/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=github&color=yellow"/>
   </a>
+    <img src="https://tokei.rs/b1/github/Ayazbog11/Galimov_Ayaz_C?style=flat-square&color=informational&label=Строк%20кода"/>
 </p>
 
 </div>
 
 ---
-
+### 📈 Активность
+<img src="https://ghchart.rshah.org/Ayazbog11" alt="График коммитов"/>
 ## 📂 Структура проекта
 
 ```
