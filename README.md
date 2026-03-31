@@ -11,11 +11,11 @@
 
 <!-- Динамические бейджи с ПРАВИЛЬНЫМ именем репозитория -->
 <p>
-  <img src="https://img.shields.io/github/last-commit/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=git&logoColor=white&label=Последний%20коммит&color=blueviolet"/>
-  <img src="https://img.shields.io/github/commit-activity/w/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=github&logoColor=white&label=Активность&color=brightgreen"/>
-  <img src="https://img.shields.io/github/repo-size/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=database&logoColor=white&label=Размер&color=orange"/>
+  <a href="https://github.com/Ayazbog11/Galimov_Ayaz_C/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=git&color=blueviolet"/>
+  </a>
   <a href="https://github.com/Ayazbog11/Galimov_Ayaz_C/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=github&logoColor=white&label=Открытые%20PR&color=yellow"/>
+    <img src="https://img.shields.io/github/issues-pr/Ayazbog11/Galimov_Ayaz_C?style=flat-square&logo=github&color=yellow"/>
   </a>
 </p>
 
