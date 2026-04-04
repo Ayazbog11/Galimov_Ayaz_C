@@ -5,6 +5,7 @@ struct Rectangle {
     float height;
 };
 
+
 // Функция вычисления площади (передача по значению)
 float areaByValue(struct Rectangle rect) {
     return rect.width * rect.height;

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 enum Course { FIRST = 1, SECOND, THIRD, FOURTH, FIFTH };
 
